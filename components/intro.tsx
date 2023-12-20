@@ -62,8 +62,9 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">I'm Andrei,</span> a committed technology enthusiast fueled by a passion for innovation and leading-edge IT solutions. {" "}
-        <span className="font-bold">With a strong dedication to coding, analytics, and reporting, </span> I aim to transform my boundless technological enthusiasm into impactful and meaningful digital experiences.{" "}
+        I'm<span className="font-bold"> Andrei</span>, a technology enthusiast fueled by a passion for innovation and IT solutions.
+        With a steadfast commitment to coding, analytics, and reporting, I strive to channel my boundless technological curiosity 
+        into creating impactful and meaningful digital experiences.
         <span className="font-bold"></span> 
       </motion.h1>
 

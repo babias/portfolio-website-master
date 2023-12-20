@@ -20,7 +20,7 @@ export default function About() {
 
       <SectionHeading>About me</SectionHeading>
       <p className="mb-7">
-        Experienced professional with a diverse background, with 10+ years of experience in <span className="font-medium">reporting, 
+        Commited professional with a diverse background, with 10+ years of experience in <span className="font-medium">reporting, 
         coding and data analytics,</span> and 5+ years of experience in the <span className="font-medium">banking industry 
         </span> concentrated in <span className="font-medium">fraud, credit card, systems support, and electronic
         payments.</span> Driven by my passion for technology, I pursued further expertise through a coding bootcamp, 
